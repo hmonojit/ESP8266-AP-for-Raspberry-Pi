@@ -13,7 +13,7 @@ The only things you will need is a computer and an ESP8266
 6. Select Deauther ESP8266 Boards by Spacehuhn Technologies and click on Install (must be version 2.7.5)
 ![1](https://github.com/hmonojit/ESP8266-AP-for-Raspberry-Pi/assets/164205830/cc11ee44-caad-4e06-9e17-d248004c4bce)
 7. conntect your esp8266 with pc 
-8. Open downloaded esp8266_hotspot.ino file
+8. Open downloaded esp8266_wifi.ino file
 9. Change 'ssid' & 'password' accordingly 
 ![2](https://github.com/hmonojit/ESP8266-AP-for-Raspberry-Pi/assets/164205830/b76ab2ce-dc23-4299-8bcf-42968b4fbf89)
 10. Check the same
